@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjan-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="ranjan-prasad" /> </p>
 <p align = "right">
-<a href="https://ibb.co/tmrKpNN"><img  width = "500px" src="https://i.ibb.co/kHCB2rr/full.gif" alt="Full Stack Developer="0"></a>
+<a href="https://ibb.co/tmrKpNN"><img  width = "1000px" src="https://i.ibb.co/kHCB2rr/full.gif" alt="Full Stack Developer="0"></a>
 </p>
 
 - 🌱 I’m currently learning **Spring  and Mircroservices**
