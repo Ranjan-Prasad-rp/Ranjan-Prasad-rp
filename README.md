@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring  and Mircroservices**
 
-- 💬 Ask me about ** DATA ANALYSIS, JAVA , DSA**
+- 💬 Ask me about **JAVA , DSA**
 
 - 📫 How to reach me **rp109210@gmail.com**
 
