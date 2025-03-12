@@ -6,7 +6,7 @@
 <a href="https://ibb.co/tmrKpNN"><img  width = "1000px" src="https://i.ibb.co/kHCB2rr/full.gif" alt="Full Stack Developer="0"></a>
 </p>
 
-- 🌱 I’m currently learning **Spring  and Mircroservices**
+- 🌱 I’m currently learning **Spring Boot, Restful API and Mircroservices**
 
 - 💬 Ask me about **JAVA , DSA**
 
