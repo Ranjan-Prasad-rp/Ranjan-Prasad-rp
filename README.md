@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 <span style =>--------------- &nbsp; **Software Developer** &nbsp;   -------------------- 💻 </span><br> <br>
+💻 --------------- &nbsp; **Software Developer** &nbsp;   -------------------- 💻 <br> <br>
 🎓 MCA Student at Amity University <br><br>🎓 B.Sc. (Hons) Computer Science graduate from Delhi University<br><br>💻 Full Stack Java Developer — passionate about building scalable backend systems and sleek frontends<br><br>🚀**Experienced in developing RESTful APIs using Spring Boot, Spring Security, Spring Data JPA and Docker**<br><br>🛠️ Tools **I use: Postman, IntelliJ IDEA, VS Code, Git**<br><br>🔍 Lifelong learner committed to mastering new technologies and delivering real-world solutions<br><br>📫 Reach me: rp109210@gmail.com<br><br>🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ranjan-prasad-a24062230) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/Ranjan-Prasad-rp)
 
 
