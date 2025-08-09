@@ -77,7 +77,6 @@ I craft end‑to‑end web solutions: robust Spring Boot services, secure data a
 | fullstack-app-1 | React + Spring Boot + MySQL | User auth + secure REST APIs | Planning |
 | api-ml-integrator | Spring Boot + MongoDB | Pluggable ML inference endpoint | Building |
 
-> Replace with real repos & concise impact statements (e.g., Improved response time by X%, Handles Y req/s).
 
 ---
 
