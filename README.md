@@ -161,7 +161,6 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
 - Enjoyment: Turning raw data into clean REST endpoints
 - Curiosity: Real-time metrics on model latency in Java stacks
 - Motto: Build. Learn. Iterate.
-- Outside Code: (Add a hobby—gaming, reading, fitness, etc.)
 
 ---
 
