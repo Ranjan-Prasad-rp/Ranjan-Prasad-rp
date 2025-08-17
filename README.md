@@ -92,7 +92,6 @@ I craft end‑to‑end web solutions: robust Spring Boot services, secure data a
 <summary><strong>Activity & Languages</strong></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-Prasad-rp&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-Prasad-rp&theme=tokyonight" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-Prasad-rp&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
 </details>
