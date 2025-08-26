@@ -115,7 +115,7 @@ I craft end‑to‑end web solutions: robust Spring Boot services, secure data a
 ---
 
 ## 🧠 Future Writings
-Planning articles & a future research paper once topic selection finalizes (currently in exploration phase).
+Finally the Topic for the Research Paper is finalized and is  <h1>📙 Machine Learning Algorithms for Financial Fraud Detection 📙</h1>.
 
 ---
 
