@@ -74,8 +74,7 @@ I craft end‑to‑end web solutions: robust Spring Boot services, secure data a
 ## 🌟 Highlight Projects (Coming Soon)
 | Project | Stack | Focus | Status |
 | ------- | ----- | ----- | ------ |
-| fullstack-app-1 | React + Spring Boot + MySQL | User auth + secure REST APIs | Planning |
-| api-ml-integrator | Spring Boot + MongoDB | Pluggable ML inference endpoint | Building |
+| fullstack-app-1 | React + Spring Boot + MySQL | User auth + secure REST APIs | Building |
 
 
 ---
@@ -144,14 +143,13 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 | Category | Goal | Status |
 | -------- | ---- | ------ |
 | Learning | First ML-backed API feature | 🚧 |
 | Projects | 2 production-ready full stack apps | 🚧 |
-| Open Source | 3 meaningful PRs | Planned |
 | DevOps | Basic CI/CD + container pipeline | 🚧 |
-| Writing | 1 research paper OR 2 technical articles | Planned |
+| Writing | 1 research paper  | Planned |
 
 ---
 
@@ -172,14 +170,6 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
 
 ---
 
-## 🗂 Repo Naming Guide
-| Prefix | Meaning |
-| ------ | ------- |
-| fullstack-* | React + Spring Boot applications |
-| spring-* | Backend services / APIs |
-| react-* | Frontend only projects |
-| ml-* | Machine learning experiments |
-| lab-* | Prototypes / learning spikes |
 
 ---
 
