@@ -75,7 +75,7 @@ This complements my strong foundation in crafting robust Spring Boot services, s
 
 ---
 
-## 🌟 Highlight Projects (Coming Soon)
+## 🌟 Highlight Projects (LIVE)
 | Project | Stack | Focus | Status |
 | ------- | ----- | ----- | ------ |
 | intern-project-1 | MEAN Stack (Angular, Node) | Scalable backend services & dynamic UI | In Progress |
