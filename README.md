@@ -1,17 +1,15 @@
-<!-- Profile README for: Ranjan-Prasad-rp -->
-<!-- Lean (no GIFs / photo). Adjust content as projects & achievements grow. -->
-
 <h1 align="center">Hi, I'm Ranjan 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer • Backend & Frontend Engineer • DevOps Enthusiast • Freelancer<br/>
-  Building scalable APIs & intuitive UIs with Spring Boot & React — now exploring ML & AI.</em>
+  <em>Full Stack Developer • MEAN Stack Intern • DevOps Enthusiast • Freelancer<br/>
+  Building scalable APIs & intuitive UIs — bridging Spring Boot/React and the MEAN Stack.</em>
 </p>
 
 <p align="center">
-  <!-- Tech Focus Badges -->
+  <a href="#"><img src="https://img.shields.io/badge/Stack-MEAN-4CAF50?style=for-the-badge" alt="MEAN Stack"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Stack-React%20%2B%20Spring%20Boot-0A66C2?style=for-the-badge" alt="Primary Stack"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Exploring-ML%20%26%20AI-FF8800?style=for-the-badge" alt="Exploring ML & AI"/></a>
+  <br/>
   <a href="mailto:rp109210@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/ranjan-prasad-a24062230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://github.com/Ranjan-Prasad-rp?tab=followers"><img src="https://img.shields.io/github/followers/Ranjan-Prasad-rp?style=for-the-badge&logo=github" alt="GitHub Followers"/></a>
@@ -26,63 +24,69 @@
 ---
 
 ## 🚀 Snapshot
-- Roles: Full Stack Developer · Backend & Frontend Engineer · DevOps Enthusiast · Freelancer  
-- Core Stack: React.js + Spring Boot (Java)  
-- Learning: Machine Learning & AI fundamentals (model serving, integration)  
-- Interests: Performant REST APIs · Secure auth flows · Clean frontend architecture · CI/CD automation  
-- Research: Currently evaluating and refining a focused topic for an upcoming paper (stay tuned)  
-- Philosophy: Build. Learn. Iterate. Deliver clarity over complexity.  
-- Open To: Freelance builds · Collaboration · Open source · Learning partnerships  
+- **Roles:** Full Stack Developer · MEAN / MERN Stack Developer · Backend & Frontend Engineer 
+- **Core Stacks:** MEAN (MongoDB, Express.js, Angular, Node.js) · React.js + Spring Boot (Java)  
+- **Learning:** Machine Learning & AI fundamentals (model serving, integration)  
+- **Interests:** Performant REST APIs · Secure auth flows · Clean frontend architecture · CI/CD automation  
+- **Research:** Currently evaluating and refining a focused topic for an upcoming paper  
+- **Philosophy:** Build. Learn. Iterate. Deliver clarity over complexity.  
+- **Open To:** Freelance builds · Collaboration · Open source · Learning partnerships  
 
 ---
 
 ## 🧩 About Me
-I craft end‑to‑end web solutions: robust Spring Boot services, secure data access with JPA/Spring Security, and responsive React UIs styled with Tailwind. I focus on maintainability, test coverage (JUnit + Mockito), and API clarity using Swagger/OpenAPI. Currently expanding into ML to embed intelligent features into practical products.
+I craft end‑to‑end web solutions across multiple technology ecosystems. Currently, I am expanding my expertise as a **MEAN Stack Intern**, building dynamic, JavaScript-driven applications using MongoDB, Express.js, Angular, and Node.js. 
+
+This complements my strong foundation in crafting robust Spring Boot services, secure data access with JPA/Spring Security, and responsive React UIs. Whether it's spinning up a Node server or maintaining test coverage with JUnit and Mockito in Java, I focus on maintainability and API clarity. I am also actively expanding into ML to embed intelligent features into practical products.
 
 ---
 
 ## 🛠 Tech Toolbox
-<!-- Core Languages & Frameworks -->
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate JPA"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-<!-- Tooling & Infra -->
 <p>
-  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate JPA"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/Mockito-4caf50?logo=java&logoColor=white" alt="Mockito"/>
 </p>
 
-> Next Targets: CI/CD (GitHub Actions), basic model inference integration, cloud deployment.
+> **Next Targets:** CI/CD (GitHub Actions), basic model inference integration, cloud deployment.
 
 ---
 
 ## 🌟 Highlight Projects (Coming Soon)
 | Project | Stack | Focus | Status |
 | ------- | ----- | ----- | ------ |
-| fullstack-app-1 | React + Spring Boot + MySQL | User auth + secure REST APIs | Building |
+| intern-project-1 | MEAN Stack (Angular, Node) | Scalable backend services & dynamic UI | In Progress |
+visit : https://www.connectbharat.org/#/
 
 
 ---
 
 ## 🧪 Current Learning Experiments
-- Spring Boot endpoint embedding a lightweight classifier (prototype)
-- Reusable React component library (buttons/forms/auth flows)
-- Dockerized dev environment + draft CI workflow
+- Mastering RxJS and state management in Angular
+- Building RESTful APIs with Express and Node.js
 
 ---
 
@@ -106,31 +110,21 @@ I craft end‑to‑end web solutions: robust Spring Boot services, secure data a
 
 ## 🏗 Architectural Interests
 - Clean layering: Controller → Service → Repository
-- Secure & stateless auth (JWT/Spring Security)
-- Structured logging & metrics (future)
+- Secure & stateless auth (JWT/Spring Security/Node Auth)
+- Structured logging & metrics
 - Containerized deploy flow
 - Gradual ML feature embedding
-
----
-
-## 🧠 Future Writings
-Finally the Topic for the Research Paper is finalized and is  <h1>📙 Machine Learning Algorithms for Financial Fraud Detection 📙</h1>.
-
----
-
-## 🤝 Open Source Path
-Early stage: targeting starter contributions (docs updates, small bug fixes) → gradual move to feature PRs in Spring / React ecosystem libs.
-
+  
 ---
 
 ## 💬 Ask Me About
 | Area | Topics |
 | ---- | ------ |
-| Backend | REST design, JPA patterns, validation |
-| Frontend | React components, state management basics |
-| Security | Auth layers, guarded endpoints |
+| Backend | REST design, Express.js/Node.js, JPA patterns |
+| Frontend | Angular concepts, React components, state management |
+| Security | Auth layers, guarded endpoints (JWT) |
 | Dev Workflow | Git strategies, Docker basics |
-| Learning | Transition from full stack to ML integration |
+| Learning | Transitioning between full stack ecosystems & ML integration |
 
 ---
 
@@ -146,6 +140,7 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
 ## 🎯 2026 Goals
 | Category | Goal | Status |
 | -------- | ---- | ------ |
+| Career | Excel in MEAN stack | 🚧 |
 | Learning | First ML-backed API feature | 🚧 |
 | Projects | 2 production-ready full stack apps | 🚧 |
 | DevOps | Basic CI/CD + container pipeline | 🚧 |
@@ -154,10 +149,10 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
 ---
 
 ## ⚡ Fun Corner
-- Favorite Stack Combo: React + Spring Boot
-- Enjoyment: Turning raw data into clean REST endpoints
-- Curiosity: Real-time metrics on model latency in Java stacks
-- Motto: Build. Learn. Iterate.
+- **Favorite Stack Combos:** React + Spring Boot | Angular + Node.js
+- **Enjoyment:** Turning raw data into clean REST endpoints across multiple languages
+- **Curiosity:** Real-time metrics on model latency in Java & JS stacks
+- **Motto:** Build. Learn. Iterate.
 
 ---
 
@@ -167,9 +162,6 @@ Early stage: targeting starter contributions (docs updates, small bug fixes) →
   <a href="https://www.linkedin.com/in/ranjan-prasad-a24062230/"><img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Prasad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/Ranjan-Prasad-rp"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
-
----
-
 
 ---
 
@@ -186,13 +178,3 @@ If something here helps you:
 - 🔀 Fork & experiment
 
 <p align="center"><em>Let’s build something impactful together.</em></p>
-
----
-
-<!-- Maintenance Checklist
-[ ] Add real project links
-[ ] Update once research topic is finalized
-[ ] Prune widgets if load feels slow
-[ ] Add achievements metrics
-[ ] Refresh goals quarterly
--->
